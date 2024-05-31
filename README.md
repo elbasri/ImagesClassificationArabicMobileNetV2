@@ -13,8 +13,8 @@
 يمكن تثبيت الحزم باستخدام pip:
 ```bash
 pip install tensorflow keras numpy
+```
 
-
-##الشرح الكامل في الملف المرفق بامتداد .ipynb
+## الشرح الكامل في الملف المرفق بامتداد .ipynb
 كما يمكنك عمل تنفيذ مباشر له على منصة كاجل:
 https://www.kaggle.com/code/nacernacer/mobilenetv2 
